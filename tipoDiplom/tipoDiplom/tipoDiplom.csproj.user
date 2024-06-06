@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\user\source\repos\tipoDiplom\tipoDiplom\Properties\PublishProfiles\ClickOnceProfile1.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Forms\Calc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Choise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormAuth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\EmployeeAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\EmployeeChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormReg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Guest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\MainAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\MainChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\MatAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\WareAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\WareChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\WarehouseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

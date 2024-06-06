@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\tipoDiplom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45D69103-3177-4B57-BC22-D52CCBF23F19}|tipoDiplom\\tipoDiplom.csproj|c:\\users\\user\\source\\repos\\tipodiplom\\tipodiplom\\forms\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45D69103-3177-4B57-BC22-D52CCBF23F19}|tipoDiplom\\tipoDiplom.csproj|solutionrelative:tipodiplom\\forms\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D69103-3177-4B57-BC22-D52CCBF23F19}|tipoDiplom\\tipoDiplom.csproj|c:\\users\\user\\source\\repos\\tipodiplom\\tipodiplom\\forms\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D69103-3177-4B57-BC22-D52CCBF23F19}|tipoDiplom\\tipoDiplom.csproj|solutionrelative:tipodiplom\\forms\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D69103-3177-4B57-BC22-D52CCBF23F19}|tipoDiplom\\tipoDiplom.csproj|C:\\Users\\user\\source\\repos\\tipoDiplom\\tipodiplom\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45D69103-3177-4B57-BC22-D52CCBF23F19}|tipoDiplom\\tipoDiplom.csproj|solutionrelative:tipodiplom\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calc.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\tipoDiplom\\tipoDiplom\\Forms\\Calc.cs",
+              "RelativeDocumentMoniker": "tipoDiplom\\Forms\\Calc.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\tipoDiplom\\tipoDiplom\\Forms\\Calc.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "tipoDiplom\\Forms\\Calc.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:57:33.531Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calc.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\tipoDiplom\\tipoDiplom\\Forms\\Calc.cs",
+              "RelativeDocumentMoniker": "tipoDiplom\\Forms\\Calc.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\tipoDiplom\\tipoDiplom\\Forms\\Calc.cs",
+              "RelativeToolTip": "tipoDiplom\\Forms\\Calc.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:55:28.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\tipoDiplom\\tipoDiplom\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "tipoDiplom\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\tipoDiplom\\tipoDiplom\\Forms\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "tipoDiplom\\Forms\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:36:58.934Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
